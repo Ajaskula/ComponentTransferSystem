@@ -23,8 +23,6 @@ CTS is a system designed to coordinate concurrent component data transfer operat
 - The project source code is written in Java following good programming practices.
 - The solution does not create additional threads.
 - No information is printed to standard output.
-- The project consists of a single ZIP file containing the package structure and relevant source files.
-- The solution is compilable on the students.mimuw.edu.pl platform.
 - The project passes the required tests, including running the demonstration program without errors.
 - All errors and exceptions are handled according to the project requirements.
 
